@@ -1,6 +1,6 @@
 ### Oi, eu sou o Eduardo Matos! 👋
 
-- 🔭 Desenvolvedor em formação
+- 🔭 Desenvolvedor Front-End em formação
 - 🌱 Graduado em Sistemas de Informação
 - 📫 Entre em contato no e-mail: eduardosmatos_@hotmail.com
 
